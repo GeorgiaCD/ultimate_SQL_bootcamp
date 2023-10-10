@@ -1,1 +1,1 @@
-# ultimate_SQL_bootcamp
+# SQL bootcamp Project
